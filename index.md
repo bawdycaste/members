@@ -1,5 +1,3 @@
-# members.bawdycaste.com
-
 an SF Bay Area Rocky Horror Picture Show Shadow Cast
      
 ## Cast Member Calendar
