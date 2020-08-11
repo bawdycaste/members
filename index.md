@@ -6,17 +6,9 @@ an SF Bay Area Rocky Horror Picture Show Shadow Cast
 
 ## Links to Shit
 
-- Google Drive
-  - files stored in google drive, organized by departments
-  - [http://obcf.bawdycaste.com](http://obcf.bawdycaste.com)
-  - *recently fixed*, this is a permanent forward link
-- Github
-  - long term file storage, and project management tool that everybody refuses to use
-  - [github.com/bawdycaste](https://github.com/bawdycaste)
-- Cast Bylaws
-  - [google docs version](https://docs.google.com/document/d/e/2PACX-1vQwQB19zkf2DaQFueaOJWOG9QGhHEVWFXq4yKjn9t7KNDK-ssom4pNH7H8oGr_w68M7iQBVYEuGoAlq/pub)
-  - [github version](https://github.com/bawdycaste/bylaws)
-  - These documents are identical, and provided in two formats for ease-of-use.
+- Google Drive [http://obcf.bawdycaste.com](http://obcf.bawdycaste.com)
+- [github.com/bawdycaste](https://github.com/bawdycaste)
+- [Cast Bylaws](https://bawdycaste.com)
 - Photo Archive
   - [p.bawdycaste.com](https://p.bawdycaste.com)
   - password protected photo portal, members only
