@@ -12,3 +12,7 @@ an SF Bay Area Rocky Horror Picture Show Shadow Cast
 - Photo Archive
   - [p.bawdycaste.com](https://p.bawdycaste.com)
   - password protected photo portal, members only
+
+## discord
+
+<iframe src="https://discord.com/widget?id=361045646238679040&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
