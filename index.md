@@ -9,7 +9,6 @@ an SF Bay Area Rocky Horror Picture Show Shadow Cast
 - Google Drive [http://obcf.bawdycaste.com](http://obcf.bawdycaste.com)
 - [github.com/bawdycaste](https://github.com/bawdycaste)
 - [Cast Bylaws](https://bylaws.bawdycaste.com)
-- Photo Archive
-  - [p.bawdycaste.com](https://p.bawdycaste.com)
-  - password protected photo portal, members only
+- [Join Discord](http://bawdycaste.com/discord)
+- [Membership Welcome Packet](http://bawdycaste.com/join)
 
